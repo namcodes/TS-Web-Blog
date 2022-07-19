@@ -1,4 +1,4 @@
-<h1 align="center">Typescript - Todo List</h1>
+<h1 align="center">Typescript - Web Blog</h1>
 <p align="center">A simple typescript web blog application with Sanity CMS.</p>
 
 # Preview
