@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.height-80 {
+  height: 80px;
+}
+
+.height-min {
+  min-height: 75vh;
+}
+.image {
+  background-image: url("/background.jpg");
+}
+
+body{
+  background-color: #f9fafb;
+}
